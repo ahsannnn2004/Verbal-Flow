@@ -25,7 +25,7 @@ We focused heavily on core HCI principles like simplicity, consistency, and clea
 
 ## The Team
 This was a collaborative group project created by:
-* [Your Name]
+* Syed Ahsan Anzar
 * Anas Umar Khan
 * Hussain Fareed
 
